@@ -41,9 +41,8 @@
     "url": "git+https://github.com/bvv8808/react-native-cardview-withtype.git"
   },
   "scripts": {
-    "publish": "npm publish --access public",
     "test": "echo \"Error: no test specified\" && exit 1",
     "update-patch": "npm version patch"
   },
-  "version": "1.0.0"
+  "version": "1.0.1"
 }

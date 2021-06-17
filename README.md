@@ -1,6 +1,6 @@
 # @hyeonwoo/react-native-card-view
 
-> Note!! This is the same with the 'react-native-card-view' library. This is just what i have added the index.d.ts, the type define file on exsting that. note it. JUST WITH TYPE.
+> `Note!!` This is the same with the 'react-native-card-view' library. This is just what i have added the index.d.ts, the type define file on exsting that. note it. JUST WITH TYPE.
 
 [![npm](https://nodei.co/npm/react-native-cardview.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/react-native-cardview)
 

@@ -1,0 +1,49 @@
+{
+  "author": {
+    "name": "hyeonwoo",
+    "url": "hyeonwoo.v24@gmail.com"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  },
+  "description": "A react native card view (with type)",
+  "homepage": "https://github.com/bvv8808/react-native-cardview-withtype",
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "react-native-card",
+    "react-native-cardview",
+    "react-native-card-view",
+    "card",
+    "card-view",
+    "card-view",
+    "react-native-shadow",
+    "react-native-shadow-view",
+    "react-native-shadowview",
+    "shadow",
+    "shadow-view",
+    "shadowview",
+    "appcompat",
+    "support",
+    "android",
+    "ios",
+    "component"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@hyeonwoo/react-native-cardview",
+  "peerDependencies": {
+    "react-native": "^0.56.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bvv8808/react-native-cardview-withtype.git"
+  },
+  "scripts": {
+    "publish": "npm publish --access public",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update-patch": "npm version patch"
+  },
+  "version": "1.0.0"
+}
